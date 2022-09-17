@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">
-        <a href="https://t.me/IzrdbIzzrd"><b>Telegram</b></a>
+        <a href="https://t.me/lzrdblzzrd"><b>Telegram</b></a>
         &nbsp;&nbsp;&mdash;&nbsp;&nbsp;
         <a href="https://steamcommunity.com/id/lzrdblzzrd"><b>Steam</b></a>
         &nbsp;&nbsp;&mdash;&nbsp;&nbsp;
