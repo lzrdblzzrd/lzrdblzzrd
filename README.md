@@ -8,5 +8,5 @@
         &nbsp;&nbsp;&mdash;&nbsp;&nbsp;
         <a href="https://soundcloud.com/lzrdblzzrd"><b>SoundCloud</b></a>
     </h1>
-    <a href="https://github.com/lzrdblzzrd"><img src="https://count.getloli.com/get/@lzrdblzzrd?theme=rule34" /></a>
+    <a href="https://lzrdblzzrd.xyz"><img src="https://count.getloli.com/get/@lzrdblzzrd?theme=rule34" /></a>
 </div>
