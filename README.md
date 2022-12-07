@@ -11,6 +11,6 @@
     <a href="https://lzrdblzzrd.xyz"><img src="https://count.getloli.com/get/@lzrdblzzrd?theme=rule34" /></a>
     <br>
     <h6>
-        <i>Since GitHub became a proprietary dumpster that Microsoft bought, I've been using selfhosted <a href="https://gitea.lzrdblzzrd.xyz/lzrdblzzrd">Gitea</a></i>
+        <i>Since GitHub became a proprietary dumpster that Microsoft bought, I've been using selfhosted <a href="https://git.lzrdblzzrd.xyz/lzrdblzzrd">Gitea</a></i>
     </h6>
 </div>
